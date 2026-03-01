@@ -112,3 +112,4 @@ Versioning
 ~~~~~~~~~~
 
 We follow `semantic versioning <https://github.com/dbrock/semver-howto/blob/master/README.md)>`_.
+https://disk.yandex.ru/client/disk/Регистрация
